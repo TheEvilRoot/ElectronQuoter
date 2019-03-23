@@ -1,0 +1,16 @@
+{
+  "name": "uadaquoter",
+  "version": "1.0.0",
+  "description": "UADAQuoter",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "UADAF Team",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.5",
+    "electron-reload": "^1.4.0",
+    "request": "^2.88.0"
+  }
+}
